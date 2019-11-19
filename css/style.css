@@ -23,6 +23,9 @@ header {
   text-align: center;
   font-size: 1.8em;
 }
+#navbar > h4 {
+  text-align: center;
+}
 
 #main-doc header {
   text-align: left;
